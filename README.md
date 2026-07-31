@@ -31,7 +31,7 @@ I build practical websites, business systems, and AI automations that reduce man
 - **What it does:** Three public static websites plus one private admin app, with shared UI/config/content/storage/validation packages, Cloudflare Pages target, R2 storage docs, admin access docs, build/QA commands, and handover documentation.
 - **What this proves:** Business/admin system delivery, multi-site monorepo architecture, staff publishing workflows, Cloudflare deployment planning, production readiness, and handover discipline.
 - **Status:** Built institutional publishing system.
-- **Public/private note:** The repository is private. This public case study is sanitized; source and client material are not published.
+- **Public/private note:** The repository is private. This public case study is sanitized; source and client material are not published. Live public sites: [Kalyani Patil Degree College](https://www.kpcollege.in/) and [Kalyani Patil Law College](https://kalyanipatillawcollege.in/).
 
 ## SteelMade — production furniture brand website
 
