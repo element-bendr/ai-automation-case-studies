@@ -42,6 +42,8 @@ I build practical websites, business systems, and AI automations that reduce man
 - **Status:** Production client website.
 - **Public/private note:** [Live site](https://steelmade.co.in/) and [public implementation](https://github.com/element-bendr/steelmade-cloudiary) are available.
 
+![SteelMade public homepage showing product navigation and a collection entry point](output/playwright/steelmade-home.png)
+
 ## ChronoQuill — WhatsApp publishing automation
 
 - **System:** WhatsApp publishing automation service.
@@ -50,6 +52,8 @@ I build practical websites, business systems, and AI automations that reduce man
 - **What this proves:** Workflow automation, deterministic scheduling, WhatsApp operational tooling, CLI/service design, and local-first automation.
 - **Status:** Built local automation service.
 - **Public/private note:** [Public implementation](https://github.com/element-bendr/chronoquill) is available. It is documented as a local automation service.
+
+![ChronoQuill public repository overview](output/playwright/chronoquill-repository.png)
 
 ## ArtSports Content OS — structured content automation
 
